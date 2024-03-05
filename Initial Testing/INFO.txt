@@ -1,0 +1,5 @@
+This folder is used to store code developed while researching potential solutions for this project.
+
+As I explore new ideas, languages, etc, I will store these iterations in this folder.
+
+Once I have a feeling for how I want to continue development, I will begin developing code into the Project Development folder.
